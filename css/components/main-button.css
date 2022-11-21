@@ -1,4 +1,4 @@
-.button {
+.main-button {
   display: inline-block;
   background: #fdba74;
   box-shadow: 5px 5px 0px #000;
@@ -9,14 +9,14 @@
   color: #fff;
   text-decoration: none;
 }
-.button:hover {
+.main-button:hover {
   transform: scale(1.08);
   opacity: 0.9;
 }
-.button.-secondButton{
+.main-button.-secondButton{
   background: #dc2626;
 
 }
-.button.-secondButton:hover{
+.main-button.-secondButton:hover{
   background:#ef4444 ;
 }

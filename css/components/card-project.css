@@ -1,8 +1,18 @@
 .card-project {
-  background: #000;
-  width: 280px;
-  height: 280px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #7c5e99;
+  width: 250px;
+  height: 250px;
+  box-shadow: 10px 10px 0px #d4d4d4;
+}
+.card-project.-blue{
+  background: #3b82f6;
+}
+.card-project.-white{
+  background: #fff;
 }
 .logo {
-  width: 200px;
+  width: 170px;
 }
